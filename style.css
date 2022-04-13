@@ -1,0 +1,19 @@
+body{
+    margin: 0px;
+    background-color: teal;
+
+}
+#header{
+    background-color: aqua;
+    padding: 7%;
+    margin: 0%;
+}
+h1 {
+    color: blue;
+    text-align: center;
+}
+#body{
+    margin: 0%;
+    padding: 0%;
+}
+
